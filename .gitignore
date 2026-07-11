@@ -1,0 +1,21 @@
+﻿# Dependencies
+node_modules/
+.hvigor/
+build/
+
+# IDE
+.idea/
+*.iml
+.cxx/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+oh_modules/
+*_test/
+local.properties
+
+# Output (want to track HAP in releases, but not source)
+*.hap.map

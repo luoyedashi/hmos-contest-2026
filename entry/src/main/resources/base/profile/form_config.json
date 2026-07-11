@@ -1,0 +1,16 @@
+{
+  "formConfig": [
+    {
+      "name": "InfoGuardForm",
+      "description": "信息卫士服务卡片",
+      "src": "./ets/formability/InfoGuardForm.ets",
+      "formVisibleNotify": true,
+      "isDefault": true,
+      "colorMode": "auto",
+      "supportDimensions": ["2*2"],
+      "defaultDimension": "2*2",
+      "updateEnabled": true,
+      "updateDuration": 3600
+    }
+  ]
+}

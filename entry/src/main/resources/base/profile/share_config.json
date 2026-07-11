@@ -1,0 +1,7 @@
+{
+  "shareConfig": {
+    "actionName": "核查后分享",
+    "priority": 10,
+    "typeList": ["text", "image", "link"]
+  }
+}

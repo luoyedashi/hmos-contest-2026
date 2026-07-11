@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "信息卫士 - 银龄AI信息核查助手"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "信息卫士主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "信息卫士"
+    },
+    {
+      "name": "internet_reason",
+      "value": "用于云端AI核查和推送服务"
+    },
+    {
+      "name": "network_reason",
+      "value": "需要网络连接进行信息核查"
+    },
+    {
+      "name": "CheckDetailAbility_desc",
+      "value": "????????"
+    },
+    {
+      "name": "CheckDetailAbility_label",
+      "value": "????"
+    },
+    {
+      "name": "notification_reason",
+      "value": "????????????"
+    },
+    {
+      "name": "background_reason",
+      "value": "?????????????"
+    },
+    {
+      "name": "vibrate_reason",
+      "value": "????????????"
+    },
+    {
+      "name": "share_check_reason",
+      "value": "??????????????????"
+    }
+  ]
+}
